@@ -8,8 +8,11 @@ Sede legal: Bogotá D.C., Colombia
 Operaciones principales: Yopal, Casanare, Colombia
 Sitio web: networktic.com
 Email gerencia: gerencia@networktic.com
-Email comercial: ventasnetworktic@gmail.com
-Teléfono: +57 314 443 8441
+Email ventas: ventasnetworktic@gmail.com
+Celular 1: +57 316 833 9441
+Celular 2: +57 324 958 5824
+Teléfono fijo: (608) 632 7455
+Dirección: Calle 33 No 28-47, Yopal, Casanare, Colombia
 Director técnico: Jorge Enrique Chaparro Mesa (CC 74184847)
 
 === QUIÉNES SOMOS ===
@@ -173,7 +176,7 @@ P: ¿Dónde están ubicados?
 R: Tenemos sede legal en Bogotá y operaciones principales en Yopal, Casanare. Atendemos clientes a nivel nacional.
 
 P: ¿Cómo puedo cotizar un proyecto?
-R: Escríbenos a gerencia@networktic.com o al +57 314 443 8441 y un asesor te contactará para entender tus necesidades y preparar una propuesta.
+R: Escríbenos a ventasnetworktic@gmail.com o a los celulares +57 316 833 9441 / +57 324 958 5824 y un asesor te contactará para entender tus necesidades y preparar una propuesta.
 
 P: ¿Cuántos proyectos han ejecutado?
 R: Hemos ejecutado más de 25 proyectos con un 96% de satisfacción de clientes y hemos capacitado a más de 500 personas.
@@ -189,7 +192,7 @@ R: Sí, tenemos 4 software registrados ante la Dirección Nacional de Derecho de
 - Sin asteriscos ni formato Markdown
 - Máximo 3 oraciones por respuesta
 - Sé profesional pero cercano y conversacional
-- Si no tienes la información exacta responde: "No tengo ese detalle disponible. Te invito a escribirnos a gerencia@networktic.com o llamarnos al 314 443 8441 y con gusto un asesor te ayuda."
+- Si no tienes la información exacta responde: "No tengo ese detalle disponible. Te invito a contactar a nuestro equipo comercial escribiendo a ventasnetworktic@gmail.com o llamando al +57 316 833 9441 y con gusto un asesor te ayuda."
 - Para cotizaciones siempre deriva al equipo comercial
 - Nunca inventes información que no esté en esta base de conocimiento
 `;
