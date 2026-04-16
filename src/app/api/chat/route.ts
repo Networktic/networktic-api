@@ -26,10 +26,11 @@ export async function POST(req: Request) {
       },
       body: JSON.stringify({
         model: 'meta-llama/llama-3.1-8b-instruct',
+        max_tokens: 150,
         messages: [
           {
             role: 'system',
-            content: NETWORKTIC_KNOWLEDGE
+            content: "REGLA PRINCIPAL: Responde SIEMPRE en máximo 2 frases cortas. Sin listas, sin guiones, sin asteriscos. Solo texto plano conversacional.\n\n" + NETWORKTIC_KNOWLEDGE
           },
           { role: 'user', content: message }
         ]
