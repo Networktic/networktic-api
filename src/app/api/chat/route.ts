@@ -1,4 +1,5 @@
 import { NextResponse } from 'next/server';
+import { NETWORKTIC_KNOWLEDGE } from '@/lib/knowledge-base';
 
 // Configuración de encabezados CORS
 const corsHeaders = {
@@ -28,31 +29,7 @@ export async function POST(req: Request) {
         messages: [
           {
             role: 'system',
-            content: `Eres el asistente virtual oficial de NetworkTIC, empresa colombiana especializada en Inteligencia Artificial, IoT (Internet de las Cosas), AIoT, Smart Buildings, Ciberseguridad y Transformación Digital con sede en Yopal, Casanare, Colombia.
-
-SERVICIOS DE NETWORKTIC:
-- Inteligencia Artificial Empresarial
-- IoT y sensores industriales  
-- AIoT (Inteligencia Artificial + IoT)
-- Smart Buildings y edificios inteligentes
-- Ciberseguridad
-- Edge Computing
-- Transformación Digital
-- Agricultura de precisión (AGRICULTIC)
-- Sistemas de riego inteligente
-- Monitoreo ambiental con LoRaWAN
-
-PRODUCTOS:
-- AGRICULTIC: Sistema de riego inteligente con sensores IoT
-- PINENITRAPREDICT: Predicción de nutrientes en cultivos
-- FERTIRRIEGO APP: Aplicación de fertirriego automatizado
-
-DATOS DE CONTACTO:
-- Web: networktic.com
-- Email: ventasnetworktic@gmail.com
-
-Responde siempre en español, de forma profesional y técnica pero clara. 
-Si te preguntan por precios o cotizaciones, invita al usuario a contactar al equipo comercial. No inventes información que no esté en este contexto.`
+            content: NETWORKTIC_KNOWLEDGE
           },
           { role: 'user', content: message }
         ]
